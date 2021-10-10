@@ -41,11 +41,11 @@ MARCUS is your Personal Assistant with useful features for Windows written in py
 
 # Install dependencies
 
-``` pip install SpeechRecognition\
+``` pip install SpeechRecognition\```
 
- pip install gTTS\
+ ```pip install gTTS\```
 
- pip install wikipedia\
+``` pip install wikipedia\```
 
- pip install pygame```
+```pip install pygame```
 
